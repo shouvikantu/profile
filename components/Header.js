@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import NavBar from "./NavBar";
+import NavBar from "./Navbar";
 
 export default function Header() {
     return (
